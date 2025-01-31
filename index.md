@@ -8,3 +8,9 @@
 ```Java
 System.out.println("I've got a bike you can ride it if you like");
 ```
+
+- [x] Wake up
+- [X] Grab the brush and put a little makeup
+- [X] Hide the scars to fade away the shakeup
+- [ ] Why'd you leave the keys up on the table
+- [ ] Here you go creating another fable
